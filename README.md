@@ -32,3 +32,5 @@ help; // show all relations
 quit;
 
 dbdestroy testdb
+
+More examples of how to use minirel are found in the testqueries directory
