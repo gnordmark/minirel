@@ -2,6 +2,7 @@ Example:
 
 make
 dbcreate testdb
+
 minirel testdb
 
 create table soaps(soapid int, name char(28), network char(4), rating real);
